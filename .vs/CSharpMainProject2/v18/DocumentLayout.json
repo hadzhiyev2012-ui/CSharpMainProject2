@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42F733F7-5C91-E6A8-6269-9C416DE99231}|Root.csproj|c:\\users\\p38-40\\downloads\\python\\csharpmainproject2\\assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F733F7-5C91-E6A8-6269-9C416DE99231}|Root.csproj|solutionrelative:assets\\scripts\\enterpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42F733F7-5C91-E6A8-6269-9C416DE99231}|Root.csproj|c:\\users\\p38-40\\downloads\\python\\csharpmainproject2\\assets\\scripts\\view\\chooseunitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F733F7-5C91-E6A8-6269-9C416DE99231}|Root.csproj|solutionrelative:assets\\scripts\\view\\chooseunitview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42F733F7-5C91-E6A8-6269-9C416DE99231}|Root.csproj|c:\\users\\p38-40\\downloads\\python\\csharpmainproject2\\assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42F733F7-5C91-E6A8-6269-9C416DE99231}|Root.csproj|C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42F733F7-5C91-E6A8-6269-9C416DE99231}|Root.csproj|solutionrelative:assets\\scripts\\model\\runtime\\projectiles\\archtotileprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,43 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChooseUnitView.cs",
-              "DocumentMoniker": "C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\Assets\\Scripts\\View\\ChooseUnitView.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\View\\ChooseUnitView.cs",
-              "ToolTip": "C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\Assets\\Scripts\\View\\ChooseUnitView.cs",
-              "RelativeToolTip": "Assets\\Scripts\\View\\ChooseUnitView.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIAxwBwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T16:32:58.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnterPoint.cs",
-              "DocumentMoniker": "C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\Assets\\Scripts\\EnterPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnterPoint.cs",
-              "ToolTip": "C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\Assets\\Scripts\\EnterPoint.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnterPoint.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T16:30:39.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ArchToTileProjectile.cs",
               "DocumentMoniker": "C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
               "ToolTip": "C:\\Users\\P38-40\\Downloads\\python\\CSharpMainProject2\\Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
               "RelativeToolTip": "Assets\\Scripts\\Model\\Runtime\\Projectiles\\ArchToTileProjectile.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T15:53:22.791Z",
               "EditorCaption": ""
